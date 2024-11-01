@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Discount Option for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-05 11:07+0000\n"
+"PO-Revision-Date: 2022-12-05 12:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1.1\n"
+"X-Domain: tt-discount-option-for-woocommerce"
+
+#. Description of the plugin
+msgid "Add a fixed fee/percentage discount based on minimum order amount."
+msgstr "添加固定费用/百分比折扣给达到最低消费的订单。"
+
+#: wc-discount-option.php:267
+msgid "Amount"
+msgstr "数目"
+
+#: wc-discount-option.php:277
+msgid "Cart Percentage(%)"
+msgstr "购物车比例"
+
+#: wc-discount-option.php:254
+msgid "Enable"
+msgstr "开启"
+
+#: wc-discount-option.php:276
+msgid "Fixed Fee"
+msgstr "固定费用"
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-discount-option/"
+msgstr "https://terrytsang.com/product/tt-woocommerce-discount-option/"
+
+#. Author URI of the plugin
+msgid "https://www.terrytsang.com"
+msgstr "https://www.terrytsang.com"
+
+#: wc-discount-option.php:261
+msgid "Label"
+msgstr "标题"
+
+#: wc-discount-option.php:289
+msgid ""
+"Minumum Order<br><span style=\"color:#999;\">(Optional, apply discount when "
+"cart total is more or equal than this amount)</span>"
+msgstr ""
+"订购金额 ( (可选 )<br><span style=\\\"color:#999;\\\">适用于折扣收费时，购物车总数（多于或等于这个金额）"
+
+#: wc-discount-option.php:355
+msgid "Save Options"
+msgstr "储存选项"
+
+#: wc-discount-option.php:282
+msgid "Taxable"
+msgstr "计算税在内"
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr "庆威 (Terry Tsang)"
+
+#: wc-discount-option.php:180 wc-discount-option.php:245
+msgid "TT Discount Option"
+msgstr "TT Discount Option (折扣选项)"
+
+#. Name of the plugin
+msgid "TT Discount Option for WooCommerce"
+msgstr "TT Discount Option (折扣选项) for WooCommerce"
+
+#: wc-discount-option.php:273
+msgid "Type"
+msgstr "类别"
+
+#: wc-discount-option.php:215
+msgid "WooCommerce Discount Option options saved."
+msgstr "WooCommerce 折扣选项已被储存"

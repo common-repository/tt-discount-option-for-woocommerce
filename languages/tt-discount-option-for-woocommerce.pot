@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Discount Option for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-05 11:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1.1\n"
+"X-Domain: tt-discount-option-for-woocommerce"
+
+#. Description of the plugin
+msgid "Add a fixed fee/percentage discount based on minimum order amount."
+msgstr ""
+
+#: wc-discount-option.php:267
+msgid "Amount"
+msgstr ""
+
+#: wc-discount-option.php:277
+msgid "Cart Percentage(%)"
+msgstr ""
+
+#: wc-discount-option.php:254
+msgid "Enable"
+msgstr ""
+
+#: wc-discount-option.php:276
+msgid "Fixed Fee"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-discount-option/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.terrytsang.com"
+msgstr ""
+
+#: wc-discount-option.php:261
+msgid "Label"
+msgstr ""
+
+#: wc-discount-option.php:289
+msgid ""
+"Minumum Order<br><span style=\"color:#999;\">(Optional, apply discount when "
+"cart total is more or equal than this amount)</span>"
+msgstr ""
+
+#: wc-discount-option.php:355
+msgid "Save Options"
+msgstr ""
+
+#: wc-discount-option.php:282
+msgid "Taxable"
+msgstr ""
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr ""
+
+#: wc-discount-option.php:180 wc-discount-option.php:245
+msgid "TT Discount Option"
+msgstr ""
+
+#. Name of the plugin
+msgid "TT Discount Option for WooCommerce"
+msgstr ""
+
+#: wc-discount-option.php:273
+msgid "Type"
+msgstr ""
+
+#: wc-discount-option.php:215
+msgid "WooCommerce Discount Option options saved."
+msgstr ""
